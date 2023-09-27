@@ -48,7 +48,7 @@ You can install the required Python packages using `pip`. For example:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-
+''''
 
 
 ## Usage
