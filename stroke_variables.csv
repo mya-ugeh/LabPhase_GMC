@@ -1,0 +1,12 @@
+,Variable,Definition
+0,gender,Gender of the patient.
+1,age,Age of the patient.
+2,hypertension,"Whether the patient has hypertension (1 for Yes, 0 for No)."
+3,heart_disease,"Whether the patient has heart disease (1 for Yes, 0 for No)."
+4,ever_married,Whether the patient is ever married (Yes or No).
+5,work_type,"Type of work the patient is engaged in (e.g., Urban, Rural)."
+6,Residence_type,"Type of residence (e.g., Urban or Rural)."
+7,avg_glucose_level,Average glucose level in the patient's blood.
+8,bmi,Body Mass Index (BMI) of the patient.
+9,smoking_status,"Smoking status of the patient (e.g., ""formerly smoked"", ""never smoked"", etc.)."
+10,stroke,"The target variable indicating the presence of a stroke (1 for Yes, 0 for No)."

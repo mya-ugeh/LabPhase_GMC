@@ -1,0 +1,25 @@
+,Variable,Definition
+0,Age,Patient's age (in years)
+1,Gender,Patient's gender (Male/Female)
+2,Air Pollution,"Level of air pollution in the environment (e.g., Low, Moderate, High)"
+3,Alcohol use,The level of alcohol use of the patient
+4,Dust Allergy,The level of dust allergy of the patient.
+5,Occupational Hazards,The level of occupational hazards of the patient.
+6,Genetic Risk,The level of genetic risk of the patient.
+7,Chronic Lung Disease,The level of chronic lung disease of the patient.
+8,Balanced Diet,The level of balanced diet of the patient.
+9,Obesity,The level of obesity of the patient.
+10,Smoking,The level of smoking of the patient.
+11,Passive Smoker,The level of passive smoker of the patient.
+12,Chest Pain,The level of chest pain of the patient.
+13,Coughing of Blood,The level of coughing of blood of the patient.
+14,Fatigue,The level of fatigue of the patient.
+15,Weight Loss,The level of weight loss of the patient.
+16,Shortness of Breath,The level of shortness of breath of the patient
+17,Wheezing,The level of wheezing of the patient.
+18,Swallowing Difficulty,The level of swallowing difficulty of the patient.
+19,Clubbing of Finger Nails,The level of swallowing difficulty of the patient.
+20,Frequent Cold,The level of Frequent colds
+21,Dry Cough,The level of Dry cough
+22,Snoring,The level of Snoring
+23,Level,"Lung cancer risk level (e.g., Low, Medium, High)"

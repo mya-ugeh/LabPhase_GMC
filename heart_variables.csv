@@ -1,0 +1,15 @@
+,variable,definition
+0,age,The age of the patient.
+1,sex,"The gender of the patient (0 for female, 1 for male)."
+2,cp,Chest pain type (categorical variable).
+3,trestbps,Resting blood pressure.
+4,chol,Serum cholesterol level.
+5,fbs,Fasting blood sugar level (1 if greater than 120 mg/dL; 0 otherwise).
+6,restecg,Resting electrocardiographic results (categorical variable).
+7,thalach,Maximum heart rate achieved during exercise.
+8,exang,Exercise-induced angina (1 if yes; 0 otherwise).
+9,oldpeak,ST depression induced by exercise relative to rest.
+10,slope,The slope of the peak exercise ST segment (categorical variable).
+11,ca,Number of major vessels colored by fluoroscopy.
+12,thal,Thalassemia (categorical variable).
+13,target,The target variable indicating the presence of heart disease (1 if present; 0 otherwise).
