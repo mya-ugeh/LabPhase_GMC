@@ -1,4 +1,4 @@
-span.css-10trblm.e1nzilvr1 {
+/* span.css-10trblm.e1nzilvr1 {
     position: relative;
     background-color: beige;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -10,12 +10,36 @@ span.css-10trblm.e1nzilvr1 {
     border-width: 2px;
     border-style: inherit;
     text-align: center;
-    /* opacity: 0.95; */
+    /* opacity: 0.95; 
+}*/
+
+/* span.css-10trblm.e1nzilvr1 {
+    color:black;
+    font-size: 60px;
+    font-family: initial;
+    font-style: oblique;
+    text-align: left;
+} */
+
+button.css-19rxjzo.ef3psqc11 {
+    color: white;
+    background-color: darkred;
+    border: inset;
+    border-block: revert;
+    border-block-style: revert;
+    border-color: black;
+    font-variant-caps: small-caps;
 }
 
 div.css-1xw8zd0.e10yg2by1 {
     background-color: black;
     opacity: 0.9;
+}
+
+.p{
+    color : darkred;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 button.css-19rxjzo.ef3psqc6 {
@@ -30,6 +54,12 @@ button.css-19rxjzo.ef3psqc6 {
     justify-content: center;
     align-items: center;
     border: double;
+}
+
+div.class-1xw8zd0.el0yg2byl{
+    position:relative;
+    background-color: black;
+    opacity: 0.89;
 }
 
 
